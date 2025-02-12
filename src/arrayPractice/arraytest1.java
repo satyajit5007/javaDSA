@@ -68,6 +68,12 @@ public class arraytest1 {
             System.out.println();
         }
 
+        System.out.println("---------------------------------------------");
+        int [] arr1 = {1,2,3,4,5};
+        for (int i = 0 ; i< arr1.length ; i++){
+            System.out.print(arr1[i]);
+        }
+
 
     }
 }
