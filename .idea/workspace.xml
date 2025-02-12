@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b329b919-e756-4a40-8d73-183998f0ee48" name="Changes" comment="xml">
-      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+    <list default="true" id="b329b919-e756-4a40-8d73-183998f0ee48" name="Changes" comment="array">
       <change beforePath="$PROJECT_DIR$/src/arrayPractice/arraytest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrayPractice/arraytest1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -118,14 +117,39 @@
       <option name="project" value="LOCAL" />
       <updated>1739384396041</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="xml">
+      <option name="closed" value="true" />
+      <created>1739384617536</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1739384617536</updated>
+    </task>
+    <task id="LOCAL-00006" summary="xml">
+      <option name="closed" value="true" />
+      <created>1739384632267</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1739384632267</updated>
+    </task>
+    <task id="LOCAL-00007" summary="array">
+      <option name="closed" value="true" />
+      <created>1739384668508</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1739384668508</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="arraytest" />
     <MESSAGE value="xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="xml" />
+    <MESSAGE value="array" />
+    <option name="LAST_COMMIT_MESSAGE" value="array" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/dsaJAVA$arraytest1.ic" NAME="arraytest1 Coverage Results" MODIFIED="1739384294579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
