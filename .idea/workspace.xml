@@ -58,7 +58,7 @@
     "settings.editor.selected.configurable": "configurable.group.tools"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.leetcode14">
     <configuration name="arraytest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arrayPractice.arraytest1" />
       <module name="dsaJAVA" />
@@ -72,8 +72,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="leetcode14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode14" />
+      <module name="dsaJAVA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.leetcode14" />
         <item itemvalue="Application.arraytest1" />
       </list>
     </recent_temporary>
