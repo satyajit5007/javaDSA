@@ -103,5 +103,6 @@ public class arraytest1 {
         System.out.println("type 2 t print the array");
         System.out.println(Arrays.toString(rollno2));
 
+
     }
 }
