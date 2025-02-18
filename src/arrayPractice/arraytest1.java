@@ -75,5 +75,33 @@ public class arraytest1 {
         }
 
 
+        // type 1
+        int [] rollnos = new int [5];
+        rollnos[0]=1;
+        rollnos[1]=2;
+        rollnos[2]=3;
+        rollnos[3]=4;
+        rollnos[4]=5;
+
+        System.out.println("---------------------------------");
+
+        for (int idx=0 ; idx< rollnos.length; idx++){
+            System.out.print(rollnos[idx]+" ");
+        }
+
+
+        //type 2
+
+        System.out.println("----");
+
+        int [] rollno2 = {2,3,4,5,6};
+
+        System.out.println("type 1 to print the string ");
+        for (int index=0; index<rollno2.length; index++){
+            System.out.println(rollno2[index]);
+        }
+        System.out.println("type 2 t print the array");
+        System.out.println(Arrays.toString(rollno2));
+
     }
 }
