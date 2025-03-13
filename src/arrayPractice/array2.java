@@ -21,6 +21,7 @@ public class array2 {
             System.out.print(arr2[index]+" ");
         }
 
+        System.out.println("new testing ");
     }
 
 }

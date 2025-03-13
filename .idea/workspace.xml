@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b329b919-e756-4a40-8d73-183998f0ee48" name="Changes" comment="adding leetcode code">
-      <change afterPath="$PROJECT_DIR$/src/arrayPractice/array2.java" afterDir="false" />
+    <list default="true" id="b329b919-e756-4a40-8d73-183998f0ee48" name="Changes" comment="array test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrayPractice/array2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrayPractice/array2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,19 +48,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.array2.executor": "Run",
-    "Application.arraytest1.executor": "Run",
-    "Application.leetcode14.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "configurable.group.tools"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.array2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.arraytest1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.leetcode14.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.array2">
     <configuration name="array2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arrayPractice.array2" />
@@ -182,7 +182,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739385239934</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="array test">
+      <option name="closed" value="true" />
+      <created>1740807138832</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1740807138832</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -191,7 +199,8 @@
     <MESSAGE value="xml" />
     <MESSAGE value="array" />
     <MESSAGE value="adding leetcode code" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding leetcode code" />
+    <MESSAGE value="array test" />
+    <option name="LAST_COMMIT_MESSAGE" value="array test" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/dsaJAVA$arraytest1.ic" NAME="arraytest1 Coverage Results" MODIFIED="1739384294579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
